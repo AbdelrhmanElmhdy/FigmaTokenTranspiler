@@ -1,0 +1,6 @@
+*.js
+*.swift
+*.kt
+outputs_fiber.json
+node_modules
+yarn-error.log
